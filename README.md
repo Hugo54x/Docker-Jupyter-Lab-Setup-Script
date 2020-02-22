@@ -4,9 +4,8 @@ A quick and dirty way to setup a Jupyter/Tensorflow-Notebook with JupyterLab ena
 - A Installation of Docker
 - Hyper-V enabled
 - Windows 10 Pro or Enterprise
-## How does it work
--Right click and execute with PowerShell
-This will setup a new Docker Container with:
+## How does it work?
+Right click and "execute with PowerShell" will setup a new Docker-Container with:
 - JupyterLab
 - Tensorflow
 - Port 8888
